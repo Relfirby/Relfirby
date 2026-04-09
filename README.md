@@ -1,6 +1,8 @@
+![рисунок](https://github.com/user-attachments/assets/37fcb4f4-b17b-4fad-a626-78c9b87a17a9)
 <img src="./pch/рисунок.gif" width="100%" height="auto">
 
 ## 
+
 
 <!--
 **Relfirby/Relfirby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
