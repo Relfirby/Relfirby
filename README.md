@@ -1,4 +1,4 @@
-![рисунок](https://github.com/user-attachments/assets/37fcb4f4-b17b-4fad-a626-78c9b87a17a9)
+![рисунок](file:///C:/Users/PC/Downloads/Gemini_Generated_Image_i77akni77akni77a.jpg)
 <img src="./pch/рисунок.gif" width="100%" height="auto">
 
 ## 
