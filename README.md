@@ -1,4 +1,4 @@
-![рисунок](file:///C:/Users/PC/Downloads/Gemini_Generated_Image_i77akni77akni77a.jpg)
+![рисунок](https://github.com/Relfirby/Relfirby/blob/main/%D1%80%D0%B5%D0%B4%D0%BC%D0%B8/pch/%D0%A4%D0%BE%D0%BD.jpg)
 <img src="./pch/рисунок.gif" width="100%" height="auto">
 
 ## 
